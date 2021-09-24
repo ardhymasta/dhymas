@@ -1,0 +1,101 @@
+body {
+    background: url(yaudah.jpeg) no-repeat center center fixed;
+  
+}
+
+img {
+    margin-left: 14cm;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+* {
+    font-weight: 100px;
+    font-family: 'Anton', cursive;
+    font-size: medium;
+}
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 16cm;
+    color:red;
+    font-size: x-large;
+    line-height: 5mm;
+}
+.name{
+    padding-left: 3cm;
+    color: darkolivegreen;
+    background-color: yellow;
+    border-radius: 20%;
+}
+.mas {
+    background-color: rgb(241, 226, 10);
+    padding-left: 3cm;
+    width: 30%;
+    border-radius: 20%;
+    color:darkmagenta;
+    }
+a{
+    color:darkslategray;
+}
+h4 {
+    background-color: khaki;
+    padding-left: 3cm;
+    width: auto;
+    width: 20%;
+}
+.table { 
+    padding-left: 3cm;
+    color:darkgreen;
+}
+th {
+    background-color: bisque;
+    color: navy;
+}
+td {
+    background-color: burlywood;
+}
+.org {
+    padding-left: 2cm;
+    font: lime;
+    width: 30%;   
+    background-color: gold;
+    border-radius: 20%;
+}
+.iya {
+    padding-left: 3cm;
+    background-color: limegreen;
+}
+.hehe {
+    padding-left: 2cm;
+    background-color: limegreen;
+    width: 50%;
+    border-radius: 10px;
+}
+.makasih {
+    padding-left: 2cm;
+    background-color: gold;
+    width: 30%;
+    border-radius: 20%;
+}
+.haha {
+    padding-left: 2cm;
+    background-color: maroon;
+    width: 50%;
+    border-radius: 10px;
+}
+.hihi {
+    padding-left: 2cm;
+    background-color: yellow;
+    width: 50%;
+    border-radius: 10px;
+}
+.huhu {
+    padding-left: 2cm;
+    background-color: blue;
+    width: 50%;
+    border-radius: 10px;
+}
+.runningtext{
+    background-color: blue;
+    padding-left: 2cm;
+}
